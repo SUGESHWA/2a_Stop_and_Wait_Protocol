@@ -43,11 +43,13 @@ while True:
 
 client output
 
-![image](https://github.com/user-attachments/assets/b29b6bb4-c6ce-4b8e-9951-b6c150492493)
+![image](https://github.com/user-attachments/assets/b2d80b08-8f86-41ff-9e41-7d7c52358307)
+
 
 server output
 
-![image](https://github.com/user-attachments/assets/ec246cbc-6bed-4187-8c9a-c33a4dba184d)
+![image](https://github.com/user-attachments/assets/f7ff9a82-7e83-49aa-bf01-abe93036821b)
+
 
 
 ## RESULT
